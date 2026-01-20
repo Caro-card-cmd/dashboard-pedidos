@@ -99,8 +99,7 @@ Extras implementados:
 ✅ Tarjetas de resumen con métricas
 ✅ Diseño personalizado y responsive
 
-Lo que Aprendí
--Durante el desarrollo de este proyecto:
+Lo que Aprendí durante el desarrollo de este proyecto:
 -Implementé TypeScript por primera vez en un proyecto completo
 -Aprendí a usar React Hooks (useState, useEffect)
 -Creé mi primera API REST con Express
